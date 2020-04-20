@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Main">
+        <attr name="imageSrc" format="reference"/>
+        <attr name="imagePlaceholder" format="reference"/>
+        <attr name="imageError" format="reference"/>
+    </declare-styleable>
+</resources>

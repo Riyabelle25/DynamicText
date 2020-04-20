@@ -1,0 +1,3 @@
+rootProject.name='DynamicTextFill'
+include ':app'
+include ':dynamic_text_fill'
